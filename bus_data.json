@@ -1,0 +1,177 @@
+[
+  {
+      "yatayat": "Sajha Yatayat",
+      "start_point": "Lagankhel",
+      "end_point": "Gongabu",
+      "intermediate_destinations": [
+          "Kupondole",
+          "Maitighar",
+          "Singha Durbar",
+          "Baluwatar",
+          "Narayanhiti",
+          "Kantipath",
+          "Sundhara",
+          "Ratnapark",
+          "New Bus Park"
+      ]
+  },
+  {
+      "yatayat": "Riddhi Siddhi Yatayat",
+      "start_point": "Thankot",
+      "end_point": "Balkot",
+      "intermediate_destinations": [
+          "Kalanki",
+          "Soaltemode",
+          "Kalimati",
+          "Teku",
+          "Tripureshwor",
+          "Thapthali",
+          "Maitighar",
+          "Babbarmahal",
+          "Baneshwor",
+          "Koteshwor"
+      ]
+  },
+  {
+      "yatayat": "Green Line",
+      "start_point": "Jorpati",
+      "end_point": "Lazimpat",
+      "intermediate_destinations": [
+          "Boudha",
+          "Sankhu",
+          "Patan",
+          "Lagankhel",
+          "Kupondole",
+          "Maitighar",
+          "Kamal Pokhari",
+          "Thapathali",
+          "Lazimpat"
+      ]
+  },
+  {
+      "yatayat": "Blue Bus",
+      "start_point": "Koteshwor",
+      "end_point": "Chabahil",
+      "intermediate_destinations": [
+          "Balkot",
+          "Baneshwor",
+          "New Road",
+          "Putalisadak",
+          "Chabahil",
+          "Kumaripati",
+          "Kalanki",
+          "Koteshwor"
+      ]
+  },
+  {
+      "yatayat": "Metro Yatayat",
+      "start_point": "Maitighar",
+      "end_point": "Bhaktapur",
+      "intermediate_destinations": [
+          "Singha Durbar",
+          "Thapathali",
+          "Ratnapark",
+          "Sundhara",
+          "Kantipath",
+          "Narayanhiti",
+          "Baluwatar",
+          "Kalimati",
+          "Bhaktapur"
+      ]
+  },
+  {
+      "yatayat": "Nepal Yatayat",
+      "start_point": "Balkot",
+      "end_point": "Jorpati",
+      "intermediate_destinations": [
+          "Kapan",
+          "Gokarneshwor",
+          "Sankhu",
+          "Patan",
+          "Lagankhel",
+          "Kupondole",
+          "Maitighar",
+          "Babbarmahal",
+          "Jorpati"
+      ]
+  },
+  {
+      "yatayat": "City Bus",
+      "start_point": "Patan",
+      "end_point": "Kathmandu",
+      "intermediate_destinations": [
+          "Lalitpur",
+          "Mangal Bazaar",
+          "Pulchowk",
+          "Kumaripati",
+          "Putalisadak",
+          "New Road",
+          "Kantipath",
+          "Singha Durbar",
+          "Kathmandu"
+      ]
+  },
+  {
+      "yatayat": "Local Yatayat",
+      "start_point": "Bhaktapur",
+      "end_point": "Chandragiri",
+      "intermediate_destinations": [
+          "Madhyapur Thimi",
+          "Sankhu",
+          "Nagarkot",
+          "Kritipur",
+          "Chandragiri",
+          "Rong",
+          "Kalanki",
+          "Putalisadak",
+          "Bhaktapur"
+      ]
+  },
+  {
+      "yatayat": "Express Bus",
+      "start_point": "Thankot",
+      "end_point": "Lalitpur",
+      "intermediate_destinations": [
+          "Kalanki",
+          "Koteshwor",
+          "Chabahil",
+          "Patan",
+          "Mangal Bazaar",
+          "Pulchowk",
+          "Kumaripati",
+          "Lalitpur"
+      ]
+  },
+  {
+      "yatayat": "Highway Bus",
+      "start_point": "Balkot",
+      "end_point": "Maitighar",
+      "intermediate_destinations": [
+          "Bhaktapur",
+          "Kritipur",
+          "Chandragiri",
+          "Nagarkot",
+          "Sankhu",
+          "Madhyapur Thimi",
+          "Gokarneshwor",
+          "Lagankhel",
+          "Maitighar"
+      ]
+  },
+  {
+      "yatayat": "Tourist Bus",
+      "start_point": "Kathmandu",
+      "end_point": "Pokhara",
+      "intermediate_destinations": [
+          "Nagarkot",
+          "Bhaktapur",
+          "Kritipur",
+          "Dhulikhel",
+          "Nepalgunj",
+          "Lumbini",
+          "Butwal",
+          "Tansen",
+          "Pokhara"
+      ]
+  }
+]
